@@ -1295,6 +1295,17 @@ section,
   height: auto;
 }
 
+.gallery .swiper-slide img {
+  width: 100%;
+  height: 350px; /* Altura padronizada */
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.gallery .swiper-slide img:hover {
+  opacity: 0.8;
+}
+
 .gallery .swiper-pagination {
   margin-top: 20px;
   position: relative;
