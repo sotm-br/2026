@@ -7,7 +7,7 @@ Bem-vindo ao repositório oficial de organização do **State of the Map Brasil 
 ## 📅 Sobre o Evento
 O **State of the Map** é o evento anual onde mapeadores, desenvolvedores, acadêmicos, empresas e entusiastas de dados abertos se reúnem para compartilhar experiências, avanços tecnológicos e fortalecer a rede de mapeamento colaborativo no Brasil.
 
-- **Data:** 03-05 de Setembro de 2026
+- **Data:** 12-14 de Novembro de 2026
 - **Local:** Uberlândia - MG
 - **Site Oficial:** [https://sotm-br.github.io/2026/](https://sotm-br.github.io/2026/) (Em construção :-))
 
